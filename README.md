@@ -7,8 +7,8 @@ The game runs by looping to get guesses (input), and responding appropriately to
 For example:  By informing the player of a wrong guess and updateding the hangman graphic.
 
 ## Images
-<center>![image1](https://user-images.githubusercontent.com/59273598/196302213-4808b70c-99c3-4ca0-bbeb-1dfb578fba0b.JPG)
-![image2](https://user-images.githubusercontent.com/59273598/196302322-198f7a76-c046-4fd4-bce1-838a50de901a.JPG)</center>
+![image1](https://user-images.githubusercontent.com/59273598/196302213-4808b70c-99c3-4ca0-bbeb-1dfb578fba0b.JPG)
+![image2](https://user-images.githubusercontent.com/59273598/196302322-198f7a76-c046-4fd4-bce1-838a50de901a.JPG)
 
 ## Usage
 Download the repo and run hangman.py with python 3 through the command line
